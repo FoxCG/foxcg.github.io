@@ -246,8 +246,9 @@
   display: flex;
   overflow: auto;
   min-height: 100vh;
-  align-items: flex-start;
+  align-items: center;
   flex-direction: column;
+  background-size: cover;
   justify-content: flex-start;
   background-image: url("components/assets/Render11Web.png");
 }
