@@ -249,6 +249,7 @@
   align-items: flex-start;
   flex-direction: column;
   justify-content: flex-start;
+  background-image: url("components/assets/Render11Web.png");
 }
 .commission-container1 {
   height: 746px;
