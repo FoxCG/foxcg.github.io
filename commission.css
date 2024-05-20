@@ -306,7 +306,7 @@
   .commission-container {
     background-size: cover;
     background-color: transparent;
-    background-image: url('https://cdn.discordapp.com/attachments/1180549975281766563/1241856309889077258/A09A4B4D-0444-44FA-A76F-680D0163E064.jpeg?ex=664c6110&is=664b0f90&hm=4144b838d42b0d8777370ff2c3d6a769fb0e34cbb594d34cc4be9cc591f964ff&');
+    background-image: url('components/assets/Render11Web.png');
   }
 }
 @media(max-width: 479px) {
