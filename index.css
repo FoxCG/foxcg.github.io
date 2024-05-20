@@ -250,7 +250,7 @@
   flex-direction: column;
   background-size: cover;
   justify-content: flex-start;
-  background-image: url(components/assets/WebHomeBGTemporaryDownscaled.png);
+  background-image: url("components/assets/WebHomeBGTemporaryDownscaled.png");
 }
 .home-container1 {
   height: 746px;
@@ -298,7 +298,7 @@
 @media(max-width: 1600px) {
   .home-container1 {
     background-size: cover;
-    background-image: url(components/assets/WebHomeBGTemporaryDownscaled.png);
+    background-image: url("components/assets/WebHomeBGTemporaryDownscaled.png");
   }
 }
 @media(max-width: 479px) {
